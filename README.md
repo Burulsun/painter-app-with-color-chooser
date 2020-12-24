@@ -1,4 +1,4 @@
 # painter-app-with-color-chooser
 Author Burulsun Taalaibekova
 
-You cn check out images zip file for screenshots
+You can check out Screensots zip file for screenshots
